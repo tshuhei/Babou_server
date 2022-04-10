@@ -1,0 +1,22 @@
+{
+  "name": "babou_server",
+  "version": "1.0.0",
+  "description": "backend_scripts for babou (iOS app)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tshuhei/Babou_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tshuhei/Babou_server/issues"
+  },
+  "homepage": "https://github.com/tshuhei/Babou_server#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
